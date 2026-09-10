@@ -18,8 +18,6 @@ Conversor de moedas em Python com cotações em tempo real, via API pública.
 
 ## Como executar
 
-## 🚀 Como executar
-
 1. Clone o repositório:
 
 \`\`\`bash
@@ -37,16 +35,6 @@ pip install requests
 
 \`\`\`bash
 python conversor.py
-\`\`\`
-
-## 📸 Demonstração
-
-\`\`\`
-Conversor de Moedas (taxas em tempo real)
-Moeda de origem (ex: USD): usd
-Moeda de destino (ex: BRL): brl
-Valor em USD: 100
-100.0 USD = 540.00 BRL
 \`\`\`
 
 ## Demonstração
