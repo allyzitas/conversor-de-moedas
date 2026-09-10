@@ -38,6 +38,7 @@ python conversor.py
 ```
 
 ## Demonstração
+<<<<<<< HEAD
 ```
 Conversor de Moedas (taxas em tempo real)
 Moeda de origem (ex: USD): usd
@@ -47,3 +48,5 @@ Valor em USD: 100
 ```
 
 Desenvolvido por Alanis como projeto de estudo em Python.
+=======
+>>>>>>> 9c10f75d47b06f3ff2c95041e7eea8877e9c49a0
